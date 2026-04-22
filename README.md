@@ -22,19 +22,18 @@ Data is taken from years 2014 up to 2019 from  [Open Source Mental Illness (OSMI
     - It may be that mental health resources offered by the company are more of formalities
 - Overall, despite provided benefits and resources: more efforts were needed in the late 2010s to better support mental health in to the industry
 
-## 📦 Packages and Libraries Used:
-- numpy 
-- pandas
-- matplotlib
-- seaborn
-- plotly
-
 ### Viewing / Installation:
-1. Simply view the file `mental-health.ipynb`
-2. For full installation, clone this repository `git clone https://github.com/giddygarcia/Mental-Health-In-Tech`
+1. *Viewing Option:* Simply view the notebook `mental-health.ipynb`
+2. *All files:* For full installation, clone this repository `git clone https://github.com/giddygarcia/mental-health-in-tech`
+#### 📦 Packages and Libraries Used:
+`requirements.txt` file is available for required libraries
+* matplotlib>=3.5.0
+* numpy>=1.21.0
+* pandas>=1.3.0
+* seaborn>=0.11.0
 
 
 ## #️⃣ Author and Contact Information
-Developed by: Christine / Giddy Garcia
+Developed by: Christine Garcia
 
 Have questions? [Further contact details and projects](https://github.com/giddygarcia)
